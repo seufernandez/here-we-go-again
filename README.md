@@ -1,3 +1,3 @@
 # here-we-go-again
 
-after a few months I got to learn code again 
+After a few months being a Freelancer Design I got to learn code again 
